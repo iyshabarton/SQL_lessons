@@ -1,0 +1,2 @@
+INSERT INTO movie (name, description, release_date, media, category_id, actor_id, cinema_id, realisateur_id, production_id, language_id ) VALUE
+('All the info that is needed to set un the database with the right info')
